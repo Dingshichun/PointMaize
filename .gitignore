@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# Data & Models (too large for GitHub)
+syau_single_maize/
+checkpoints_v*/
+logs_v*/
+results_v*/
+
+# IDE
+.vscode/
+.idea/
+
+# Misc
+.DS_Store
+*.swp
+*.swo
+
+project_plan.md
